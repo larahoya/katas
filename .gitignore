@@ -1,3 +1,5 @@
-__pycache__/
-venv/
-.idea/
+mars_rover/venv/
+mars_rover/.idea/
+mars_rover/Models/__pycache__/
+mars_rover/Tests/__pycache__/
+.DS_Store
